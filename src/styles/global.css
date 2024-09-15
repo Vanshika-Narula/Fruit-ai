@@ -1,0 +1,11 @@
+
+
+/* Global styles for the entire application */
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+}
